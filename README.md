@@ -7,7 +7,7 @@ This project is designed for **Security Analysts, SOC teams, Cybersecurity Resea
 
 ## 🚀 Live Demo (Deployment Link)
 
-🔗 **Hosted Link:**   
+🔗 **Hosted Link:**   https://open-source-threat-intelligence-dashboard.onrender.com/
 
 ---
 
