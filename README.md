@@ -17,11 +17,14 @@ This project is designed for **Security Analysts, SOC teams, Cybersecurity Resea
 
 | Dashboard Home | Threat Advisory Table |
 |----------------|-----------------------|
-| ![Home Screenshot]image.png | ![Advisory Screenshot]image.png |
+| ![Home Screenshot]<img width="1108" height="497" alt="image" src="https://github.com/user-attachments/assets/321df63c-bc79-4c3e-b45e-70b526deda50" />
+ | ![Advisory Screenshot]<img width="1289" height="456" alt="image" src="https://github.com/user-attachments/assets/c8b8651b-a774-4fbb-b69a-ca0f23974ff5" />
+ |
 
 | IP Lookup and Map View |
 |------------------------|
-| ![Map Screenshot]image.png |
+| ![Map Screenshot]<img width="640" height="922" alt="image" src="https://github.com/user-attachments/assets/081ed5c3-bbd6-466c-8fed-69583e5ee432" />
+ |
 
 ---
 
