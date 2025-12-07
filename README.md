@@ -1,2 +1,84 @@
-# Open-Source Threat Intelligence Dashboard
-A comprehensive **Cyber Threat Intelligence (CTI)** dashboard that aggregates real-time security advisories, indicators of compromise (IoCs), cybersecurity alerts, and geolocation threat insights from multiple public sources. This dashboard enables security analysts, SOC teams, and researchers to monitor and assess emerging cyber threats efficiently.
+# 🛡️ Open-Source Threat Intelligence Dashboard
+
+A powerful and intelligent **Cyber Threat Intelligence (CTI) Dashboard** built to collect, analyze, and visualize real-time cybersecurity threat information from public sources including government advisories, IP threat lookups, global maps, and open-source data.  
+This project is designed for **Security Analysts, SOC teams, Cybersecurity Researchers, and Students** who want a centralized tool to monitor emerging cyber threats with actionable intelligence.
+
+---
+
+## 🚀 Live Demo (Deployment Link)
+
+🔗 **Hosted Link:**   
+
+---
+
+## 📸 Screenshots
+
+> **Screenshots will be added here**
+
+| Dashboard Home | Threat Advisory Table |
+|----------------|-----------------------|
+| ![Home Screenshot]image.png | ![Advisory Screenshot]image.png |
+
+| IP Lookup and Map View |
+|------------------------|
+| ![Map Screenshot]image.png |
+
+---
+
+## 📌 Key Features
+
+### 🔍 Threat Intelligence Aggregation
+- Real-time **US-CERT / CISA cybersecurity advisories**
+- Threat lookup and vulnerability tracking
+- Data structured in readable UI tables and cards
+
+### 🌍 Geolocation & IP Lookup
+- Track threat origin and IP information
+- Maps and structured location insights
+- Organization & ISP details
+
+### 📊 Dashboard UI & Analytics
+- Clean, responsive, professional cybersecurity dashboard interface
+- Centralized threat visualization
+
+### 🛠 Technical Architecture
+- Modular codebase with scraper engines
+- Multi-source data gathering
+- Designed for real-world SOC usage
+
+---
+
+## 🧠 Project Goals
+
+- Create an open-source threat intelligence platform accessible for analysis & education
+- Provide automation for advisory collection and analysis
+- Help SOC teams accelerate threat visibility and response time
+- Support students with hands-on cybersecurity project experience
+
+---
+
+## 🧑‍💻 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Backend | Python, Flask |
+| Frontend | HTML, CSS, JavaScript, Bootstrap |
+| Scraping | BeautifulSoup, Requests |
+| Deployment | Render |
+| Data Sources | CISA / US-CERT, ipwhois.app, external feeds |
+
+---
+
+## 📂 Project Structure
+
+```bash
+Open-Source-Threat-Intelligenece-Dashboard/
+│── app.py                    # Main Flask application
+│── requirements.txt          # Python dependencies
+│── scraper/
+│   ├── uscert_fetcher.py     # Scraper for advisories
+│── templates/
+│   ├── index.html            # Frontend UI template
+│── static/
+│   ├── css/ js/ images       # Static assets
+│── README.md
